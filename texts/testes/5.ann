@@ -1,0 +1,14 @@
+T1	N 0 9	Descrição
+T2	PREP 10 12	de
+T3	ART 13 14	o
+T4	N 15 22	Produto
+T5	X 23 24	:
+T6	N 26 35	Descrição
+T7	X 36 37	:
+T9	NUM 45 49	réu
+T10	V 50 51	entrou
+T11	V 50 51	juri
+T12	V 50 51	defensor
+T13	V 50 51	multidão
+T14	V 50 51	virou
+T15	V 50 51	costas

@@ -1,0 +1,15 @@
+T1	N 0 9	Descrição
+T2	PREP 10 12	de
+T3	ART 13 14	o
+T4	N 15 22	Produto
+T5	X 23 24	:
+T6	N 26 35	Descrição
+T7	X 36 37	:
+T9	N 42 50	réu
+T10	N 51 54	advogado
+T11	V 55 62	entraram
+T12	N 63 69	tribunal
+T14	N 82 85	defensores
+T15	N 86 93	vítimas
+T16	N 94 103	viraram
+T17	N 104 105	costas
